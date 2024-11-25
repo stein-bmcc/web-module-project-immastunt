@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Bevan:ital@0;1&display=swap');
+
+
+/* NAVIGATION STYLING */
+nav ul{
+list-style-type: none;
+padding: 10px;
+margin: 0;
+background-color: aliceblue;
+width: 380px;
+}
+
+nav li{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+body{
+    background-color: blueviolet;
+    background-image: url(images/daviddeck.jpg);
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Bevan", serif;
+    
+}
+
+h2{
+    background-color: aliceblue;
+    padding: 10px;
+    width: 380px;
+}
+
+h1{
+    background-color: aliceblue;
+    padding: 10px;
+    width: 450px;
+}
+
+img, video{
+    max-width: 100%;
+    height: auto;
+}
+
